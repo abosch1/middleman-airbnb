@@ -1,0 +1,25 @@
+.flat {
+  color: white;
+  text-align: center;
+  height: 50vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flat-data{
+  display:flex;
+  color: light gray;
+}
+
+.flat-description {
+  background-color: $white;
+  margin-top: 50px;
+}
+
+.header-flat{
+  background-color: $white;
+  margin-bottom: 100px;
+}
+
